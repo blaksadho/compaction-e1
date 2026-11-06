@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="405" viewBox="0 0 960 405">
+<rect x="0" y="0" width="960" height="405" fill="white"/>
+<line x1="150" y1="300" x2="520" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="150" y1="40" x2="150" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="150" y1="300" x2="150" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="150" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-4</text>
+<line x1="202.86" y1="300" x2="202.86" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="202.86" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-3</text>
+<line x1="255.71" y1="300" x2="255.71" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="255.71" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-2</text>
+<line x1="308.57" y1="300" x2="308.57" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="308.57" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-1</text>
+<line x1="361.43" y1="300" x2="361.43" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="361.43" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0</text>
+<line x1="414.29" y1="300" x2="414.29" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="414.29" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">1</text>
+<line x1="467.14" y1="300" x2="467.14" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="467.14" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">2</text>
+<line x1="520" y1="300" x2="520" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="520" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">3</text>
+<text x="335" y="340" font-size="13" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">log-odds (point estimate, 95% CI)</text>
+<text x="335" y="30" font-size="13" text-anchor="middle" font-weight="bold" fill="black" style="font-family:Helvetica,Arial,sans-serif">β2: entry penalty (log-odds, age 2 vs age 1)</text>
+<line x1="361.43" y1="40" x2="361.43" y2="300" stroke="black" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="138" y="62.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Haiku B150</text>
+<line x1="301.87" y1="58" x2="374.81" y2="58" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="301.87" y1="54" x2="301.87" y2="62" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="374.81" y1="54" x2="374.81" y2="62" stroke="#D55E00" stroke-width="1.6"/>
+<rect x="330.71" y="53.5" width="9" height="9" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<text x="138" y="98.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Haiku B400</text>
+<line x1="428.96" y1="94" x2="498.79" y2="94" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="428.96" y1="90" x2="428.96" y2="98" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="498.79" y1="90" x2="498.79" y2="98" stroke="#D55E00" stroke-width="1.6"/>
+<circle cx="467.41" cy="94" r="4.5" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<text x="138" y="134.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Sonnet B150</text>
+<line x1="151.97" y1="130" x2="202.97" y2="130" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="151.97" y1="126" x2="151.97" y2="134" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="202.97" y1="126" x2="202.97" y2="134" stroke="#0072B2" stroke-width="1.6"/>
+<rect x="176.17" y="125.5" width="9" height="9" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<text x="138" y="170.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Sonnet B400</text>
+<line x1="240.88" y1="166" x2="304.12" y2="166" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="240.88" y1="162" x2="240.88" y2="170" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="304.12" y1="162" x2="304.12" y2="170" stroke="#0072B2" stroke-width="1.6"/>
+<circle cx="274.42" cy="166" r="4.5" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<text x="138" y="206.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Qwen32B B150</text>
+<line x1="302.37" y1="202" x2="357.85" y2="202" stroke="#009E73" stroke-width="1.6"/>
+<line x1="302.37" y1="198" x2="302.37" y2="206" stroke="#009E73" stroke-width="1.6"/>
+<line x1="357.85" y1="198" x2="357.85" y2="206" stroke="#009E73" stroke-width="1.6"/>
+<rect x="324.59" y="197.5" width="9" height="9" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<text x="138" y="242.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Qwen32B B400</text>
+<line x1="230.13" y1="238" x2="308.03" y2="238" stroke="#009E73" stroke-width="1.6"/>
+<line x1="230.13" y1="234" x2="230.13" y2="242" stroke="#009E73" stroke-width="1.6"/>
+<line x1="308.03" y1="234" x2="308.03" y2="242" stroke="#009E73" stroke-width="1.6"/>
+<circle cx="275.13" cy="238" r="4.5" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<line x1="150" y1="260" x2="520" y2="260" stroke="#BBBBBB" stroke-width="1"/>
+<text x="138" y="286.5" font-size="13" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">Haiku B150 rewrite</text>
+<line x1="412.74" y1="282" x2="486" y2="282" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="412.74" y1="278" x2="412.74" y2="286" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="486" y1="278" x2="486" y2="286" stroke="#D55E00" stroke-width="1.6"/>
+<polygon points="444.45,276.15 450.3,282 444.45,287.85 438.6,282" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<line x1="570" y1="300" x2="940" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="570" y1="40" x2="570" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="570" y1="300" x2="570" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="570" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-4</text>
+<line x1="622.86" y1="300" x2="622.86" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="622.86" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-3</text>
+<line x1="675.71" y1="300" x2="675.71" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="675.71" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-2</text>
+<line x1="728.57" y1="300" x2="728.57" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="728.57" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">-1</text>
+<line x1="781.43" y1="300" x2="781.43" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="781.43" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0</text>
+<line x1="834.29" y1="300" x2="834.29" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="834.29" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">1</text>
+<line x1="887.14" y1="300" x2="887.14" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="887.14" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">2</text>
+<line x1="940" y1="300" x2="940" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="940" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">3</text>
+<text x="755" y="340" font-size="13" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">log-odds (point estimate, 95% CI)</text>
+<text x="755" y="30" font-size="13" text-anchor="middle" font-weight="bold" fill="black" style="font-family:Helvetica,Arial,sans-serif">β4+ − β2: further decline</text>
+<line x1="781.43" y1="40" x2="781.43" y2="300" stroke="black" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="723.67" y1="58" x2="766.52" y2="58" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="723.67" y1="54" x2="723.67" y2="62" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="766.52" y1="54" x2="766.52" y2="62" stroke="#D55E00" stroke-width="1.6"/>
+<rect x="742.35" y="53.5" width="9" height="9" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<line x1="723.88" y1="94" x2="782.24" y2="94" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="723.88" y1="90" x2="723.88" y2="98" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="782.24" y1="90" x2="782.24" y2="98" stroke="#D55E00" stroke-width="1.6"/>
+<circle cx="749.18" cy="94" r="4.5" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<line x1="734.13" y1="130" x2="796.39" y2="130" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="734.13" y1="126" x2="734.13" y2="134" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="796.39" y1="126" x2="796.39" y2="134" stroke="#0072B2" stroke-width="1.6"/>
+<rect x="759.38" y="125.5" width="9" height="9" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<line x1="726.52" y1="166" x2="775.99" y2="166" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="726.52" y1="162" x2="726.52" y2="170" stroke="#0072B2" stroke-width="1.6"/>
+<line x1="775.99" y1="162" x2="775.99" y2="170" stroke="#0072B2" stroke-width="1.6"/>
+<circle cx="750.96" cy="166" r="4.5" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<line x1="731.08" y1="202" x2="778.43" y2="202" stroke="#009E73" stroke-width="1.6"/>
+<line x1="731.08" y1="198" x2="731.08" y2="206" stroke="#009E73" stroke-width="1.6"/>
+<line x1="778.43" y1="198" x2="778.43" y2="206" stroke="#009E73" stroke-width="1.6"/>
+<rect x="751.4" y="197.5" width="9" height="9" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<line x1="669.63" y1="238" x2="775.89" y2="238" stroke="#009E73" stroke-width="1.6"/>
+<line x1="669.63" y1="234" x2="669.63" y2="242" stroke="#009E73" stroke-width="1.6"/>
+<line x1="775.89" y1="234" x2="775.89" y2="242" stroke="#009E73" stroke-width="1.6"/>
+<circle cx="721.16" cy="238" r="4.5" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<line x1="570" y1="260" x2="940" y2="260" stroke="#BBBBBB" stroke-width="1"/>
+<line x1="722.29" y1="282" x2="776.6" y2="282" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="722.29" y1="278" x2="722.29" y2="286" stroke="#D55E00" stroke-width="1.6"/>
+<line x1="776.6" y1="278" x2="776.6" y2="286" stroke="#D55E00" stroke-width="1.6"/>
+<polygon points="748.71,276.15 754.56,282 748.71,287.85 742.86,282" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<line x1="150" y1="380" x2="180" y2="380" stroke="black" stroke-width="2.0"/>
+<circle cx="165" cy="380" r="3.5" fill="black" stroke="black" stroke-width="1.5"/>
+<text x="187" y="384.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">B400</text>
+<line x1="270" y1="380" x2="300" y2="380" stroke="black" stroke-width="2.0"/>
+<rect x="281.5" y="376.5" width="7" height="7" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="307" y="384.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">B150</text>
+<line x1="390" y1="380" x2="420" y2="380" stroke="black" stroke-width="2.0"/>
+<polygon points="405,375.45 409.55,380 405,384.55 400.45,380" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="427" y="384.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">B150, budget enforced by rewriting (Addendum C)</text>
+</svg>

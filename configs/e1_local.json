@@ -1,0 +1,76 @@
+{
+  "name": "e1-local",
+  "out_dir": "runs/e1-local",
+  "concurrency": 1,
+  "max_cost_usd": 5.0,
+  "seed": 20261104,
+  "chains_per_arm": 30,
+  "rounds": 10,
+  "material": {
+    "k_initial": 16,
+    "k_fresh": 4,
+    "lines_per_chunk": 60,
+    "n_absent": 4
+  },
+  "backends": {
+    "haiku": {
+      "transport": "omp-gateway",
+      "model": "anthropic/claude-haiku-4-5",
+      "temperature": 1.0,
+      "prices_per_mtok": [
+        1.0,
+        5.0
+      ]
+    },
+    "sonnet": {
+      "transport": "omp-gateway",
+      "model": "anthropic/claude-sonnet-4-6",
+      "temperature": 1.0,
+      "prices_per_mtok": [
+        3.0,
+        15.0
+      ]
+    },
+    "haiku-t0": {
+      "transport": "omp-gateway",
+      "model": "anthropic/claude-haiku-4-5",
+      "temperature": 0.0,
+      "prices_per_mtok": [
+        1.0,
+        5.0
+      ]
+    },
+    "qwen1.5b": {
+      "transport": "http",
+      "base_url": "http://127.0.0.1:8081/v1",
+      "model": "qwen2.5-1.5b-instruct-q4_k_m",
+      "temperature": 1.0,
+      "seed": 1,
+      "prices_per_mtok": [
+        0.0,
+        0.0
+      ],
+      "timeout_s": 3600
+    }
+  },
+  "probe": {
+    "backend": "haiku-t0",
+    "rounds": "all"
+  },
+  "arms": [
+    {
+      "name": "qwen1.5b-B400-plain",
+      "compactor": "llm",
+      "backend": "qwen1.5b",
+      "budget": 400,
+      "instruction": "plain"
+    },
+    {
+      "name": "qwen1.5b-B400-verbatim",
+      "compactor": "llm",
+      "backend": "qwen1.5b",
+      "budget": 400,
+      "instruction": "verbatim"
+    }
+  ]
+}

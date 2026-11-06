@@ -1,0 +1,87 @@
+{
+  "config": {
+    "name": "e1-local",
+    "out_dir": "runs/e1-local",
+    "concurrency": 1,
+    "max_cost_usd": 5.0,
+    "seed": 20261104,
+    "chains_per_arm": 30,
+    "rounds": 10,
+    "material": {
+      "k_initial": 16,
+      "k_fresh": 4,
+      "lines_per_chunk": 60,
+      "n_absent": 4
+    },
+    "backends": {
+      "haiku": {
+        "transport": "omp-gateway",
+        "model": "anthropic/claude-haiku-4-5",
+        "temperature": 1.0,
+        "prices_per_mtok": [
+          1.0,
+          5.0
+        ]
+      },
+      "sonnet": {
+        "transport": "omp-gateway",
+        "model": "anthropic/claude-sonnet-4-6",
+        "temperature": 1.0,
+        "prices_per_mtok": [
+          3.0,
+          15.0
+        ]
+      },
+      "haiku-t0": {
+        "transport": "omp-gateway",
+        "model": "anthropic/claude-haiku-4-5",
+        "temperature": 0.0,
+        "prices_per_mtok": [
+          1.0,
+          5.0
+        ]
+      },
+      "qwen1.5b": {
+        "transport": "http",
+        "base_url": "http://127.0.0.1:8081/v1",
+        "model": "qwen2.5-1.5b-instruct-q4_k_m",
+        "temperature": 1.0,
+        "seed": 1,
+        "prices_per_mtok": [
+          0.0,
+          0.0
+        ],
+        "timeout_s": 3600
+      }
+    },
+    "probe": {
+      "backend": "haiku-t0",
+      "rounds": "all"
+    },
+    "arms": [
+      {
+        "name": "qwen1.5b-B400-plain",
+        "compactor": "llm",
+        "backend": "qwen1.5b",
+        "budget": 400,
+        "instruction": "plain"
+      },
+      {
+        "name": "qwen1.5b-B400-verbatim",
+        "compactor": "llm",
+        "backend": "qwen1.5b",
+        "budget": 400,
+        "instruction": "verbatim"
+      }
+    ]
+  },
+  "config_path": "configs/e1_local.json",
+  "config_sha256": "d3720f0589037e50ccd0dc47d136b1509a4592798fe68d92c9101b6603c554da",
+  "started": "2026-11-04T00:06:15+1000",
+  "python": "3.13.5 (main, Aug 10 2026, 12:06:59) [GCC 14.2.0]",
+  "platform": "Linux-6.12.107+deb13-amd64-x86_64-with-glibc2.41",
+  "omp_gateway_versions": {
+    "haiku-t0": "18.16.0",
+    "qwen1.5b": null
+  }
+}

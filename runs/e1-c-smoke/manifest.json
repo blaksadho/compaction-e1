@@ -1,0 +1,80 @@
+{
+  "config": {
+    "name": "e1-c-smoke",
+    "out_dir": "runs/e1-c-smoke",
+    "concurrency": 6,
+    "max_cost_usd": 1.0,
+    "seed": 20261104,
+    "chains_per_arm": 1,
+    "rounds": 2,
+    "material": {
+      "k_initial": 16,
+      "k_fresh": 4,
+      "lines_per_chunk": 60,
+      "n_absent": 4
+    },
+    "backends": {
+      "haiku": {
+        "transport": "omp-gateway",
+        "model": "anthropic/claude-haiku-4-5",
+        "temperature": 1.0,
+        "prices_per_mtok": [
+          1.0,
+          5.0
+        ]
+      },
+      "sonnet": {
+        "transport": "omp-gateway",
+        "model": "anthropic/claude-sonnet-4-6",
+        "temperature": 1.0,
+        "prices_per_mtok": [
+          3.0,
+          15.0
+        ]
+      },
+      "haiku-t0": {
+        "transport": "omp-gateway",
+        "model": "anthropic/claude-haiku-4-5",
+        "temperature": 0.0,
+        "prices_per_mtok": [
+          1.0,
+          5.0
+        ]
+      }
+    },
+    "probe": {
+      "backend": "haiku-t0",
+      "rounds": "all"
+    },
+    "arms": [
+      {
+        "name": "haiku-B150-plain-rewrite",
+        "compactor": "llm",
+        "backend": "haiku",
+        "budget": 150,
+        "instruction": "plain",
+        "enforce": "rewrite",
+        "max_rewrites": 2
+      },
+      {
+        "name": "sonnet-B150-plain-rewrite",
+        "compactor": "llm",
+        "backend": "sonnet",
+        "budget": 150,
+        "instruction": "plain",
+        "enforce": "rewrite",
+        "max_rewrites": 2
+      }
+    ]
+  },
+  "config_path": "configs/e1_c_smoke.json",
+  "config_sha256": "75151d73e0c01217caa21677aa56f7ddb2a73a5ab7de0db69ea619781c56c913",
+  "started": "2026-11-06T15:31:24+1000",
+  "python": "3.13.5 (main, Aug 10 2026, 12:06:59) [GCC 14.2.0]",
+  "platform": "Linux-6.12.113+deb13-amd64-x86_64-with-glibc2.41",
+  "omp_gateway_versions": {
+    "haiku": "18.16.0",
+    "haiku-t0": "18.16.0",
+    "sonnet": "18.16.0"
+  }
+}

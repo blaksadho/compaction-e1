@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">
+<rect x="0" y="0" width="980" height="420" fill="white"/>
+<line x1="70" y1="300" x2="340" y2="300" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="70" y1="235" x2="340" y2="235" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="70" y1="170" x2="340" y2="170" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="70" y1="105" x2="340" y2="105" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="70" y1="40" x2="340" y2="40" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="70" y1="300" x2="340" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="70" y1="40" x2="70" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="70" y1="300" x2="70" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="70" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0</text>
+<line x1="124" y1="300" x2="124" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="124" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">2</text>
+<line x1="178" y1="300" x2="178" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="178" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">4</text>
+<line x1="232" y1="300" x2="232" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="232" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">6</text>
+<line x1="286" y1="300" x2="286" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="286" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">8</text>
+<line x1="340" y1="300" x2="340" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="340" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">10</text>
+<line x1="65" y1="300" x2="70" y2="300" stroke="black" stroke-width="1.2"/>
+<text x="62" y="304" font-size="12" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0.00</text>
+<line x1="65" y1="235" x2="70" y2="235" stroke="black" stroke-width="1.2"/>
+<text x="62" y="239" font-size="12" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0.25</text>
+<line x1="65" y1="170" x2="70" y2="170" stroke="black" stroke-width="1.2"/>
+<text x="62" y="174" font-size="12" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0.50</text>
+<line x1="65" y1="105" x2="70" y2="105" stroke="black" stroke-width="1.2"/>
+<text x="62" y="109" font-size="12" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0.75</text>
+<line x1="65" y1="40" x2="70" y2="40" stroke="black" stroke-width="1.2"/>
+<text x="62" y="44" font-size="12" text-anchor="end" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">1.00</text>
+<text x="205" y="340" font-size="13" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">compactions survived g</text>
+<text x="26" y="170" font-size="13" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif" transform="rotate(-90 26 170)">S(g), round-1 facts present</text>
+<text x="205" y="30" font-size="13" text-anchor="middle" font-weight="bold" fill="black" style="font-family:Helvetica,Arial,sans-serif">Haiku</text>
+<polyline points="70,40 97,145.08 124,211.17 151,274.54 178,300 205,300 232,300 259,300 286,300 313,300 340,300" fill="none" stroke="#999999" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6,4"/>
+<polyline points="70,40 97,40 124,40 151,40 178,68.17 205,133.71 232,200.33 259,262.62 286,299.46 313,300 340,300" fill="none" stroke="#999999" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="70,40 97,43.79 124,56.25 151,63.83 178,81.71 205,96.88 232,99.04 259,116.92 286,121.25 313,134.25 340,136.96 340,192.75 313,190.04 286,175.42 259,172.71 232,148.88 205,147.25 178,130.46 151,97.42 124,88.75 97,62.75 70,40" fill="#D55E00" fill-opacity="0.18" stroke="none"/>
+<polygon points="70,40 97,40 124,40 151,40 178,41.62 205,48.12 232,51.38 259,56.25 286,68.71 313,75.21 340,79.54 340,142.92 313,140.21 286,121.79 259,103.38 232,76.83 205,68.71 178,51.38 151,47.58 124,42.71 97,41.62 70,40" fill="#D55E00" fill-opacity="0.18" stroke="none"/>
+<polyline points="70,40 97,52.46 124,71.42 151,80.08 178,105 205,121.25 232,122.88 259,144.54 286,147.79 313,161.33 340,164.04" fill="none" stroke="#D55E00" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="6,4"/>
+<rect x="67" y="37" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="94" y="49.46" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="121" y="68.42" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="148" y="77.08" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="175" y="102" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="202" y="118.25" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="229" y="119.88" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="256" y="141.54" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="283" y="144.79" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="310" y="158.33" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="337" y="161.04" width="6" height="6" fill="white" stroke="#D55E00" stroke-width="1.5"/>
+<polyline points="70,40 97,40.54 124,41.08 151,43.25 178,45.96 205,57.33 232,63.29 259,77.38 286,93.08 313,105 340,108.79" fill="none" stroke="#D55E00" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="70" cy="40" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="97" cy="40.54" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="124" cy="41.08" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="151" cy="43.25" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="178" cy="45.96" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="205" cy="57.33" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="232" cy="63.29" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="259" cy="77.38" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="286" cy="93.08" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="313" cy="105" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<circle cx="340" cy="108.79" r="3" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<line x1="380" y1="300" x2="650" y2="300" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="380" y1="235" x2="650" y2="235" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="380" y1="170" x2="650" y2="170" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="380" y1="105" x2="650" y2="105" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="380" y1="40" x2="650" y2="40" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="380" y1="300" x2="650" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="380" y1="40" x2="380" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="380" y1="300" x2="380" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="380" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0</text>
+<line x1="434" y1="300" x2="434" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="434" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">2</text>
+<line x1="488" y1="300" x2="488" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="488" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">4</text>
+<line x1="542" y1="300" x2="542" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="542" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">6</text>
+<line x1="596" y1="300" x2="596" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="596" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">8</text>
+<line x1="650" y1="300" x2="650" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="650" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">10</text>
+<line x1="375" y1="300" x2="380" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="375" y1="235" x2="380" y2="235" stroke="black" stroke-width="1.2"/>
+<line x1="375" y1="170" x2="380" y2="170" stroke="black" stroke-width="1.2"/>
+<line x1="375" y1="105" x2="380" y2="105" stroke="black" stroke-width="1.2"/>
+<line x1="375" y1="40" x2="380" y2="40" stroke="black" stroke-width="1.2"/>
+<text x="515" y="340" font-size="13" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">compactions survived g</text>
+<text x="515" y="30" font-size="13" text-anchor="middle" font-weight="bold" fill="black" style="font-family:Helvetica,Arial,sans-serif">Sonnet</text>
+<polyline points="380,40 407,145.08 434,211.17 461,274.54 488,300 515,300 542,300 569,300 596,300 623,300 650,300" fill="none" stroke="#999999" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6,4"/>
+<polyline points="380,40 407,40 434,40 461,40 488,68.17 515,133.71 542,200.33 569,262.62 596,299.46 623,300 650,300" fill="none" stroke="#999999" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="380,40 407,56.25 434,64.92 461,75.75 488,84.42 515,95.25 542,101.75 569,107.71 596,112.58 623,120.71 650,131 650,174.88 623,165.67 596,156.46 569,149.42 542,140.21 515,131 488,115.83 461,101.75 434,82.79 407,66 380,40" fill="#0072B2" fill-opacity="0.18" stroke="none"/>
+<polygon points="380,40 407,40 434,40 461,40 488,40 515,40 542,40 569,40 596,40 623,40.54 650,42.71 650,54.62 623,45.42 596,41.62 569,40 542,40 515,40 488,40 461,40 434,40 407,40 380,40" fill="#0072B2" fill-opacity="0.18" stroke="none"/>
+<polyline points="380,40 407,61.12 434,73.58 461,88.21 488,99.58 515,112.58 542,120.71 569,128.29 596,134.25 623,143.46 650,153.21" fill="none" stroke="#0072B2" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="6,4"/>
+<rect x="377" y="37" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="404" y="58.12" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="431" y="70.58" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="458" y="85.21" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="485" y="96.58" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="512" y="109.58" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="539" y="117.71" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="566" y="125.29" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="593" y="131.25" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="620" y="140.46" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="647" y="150.21" width="6" height="6" fill="white" stroke="#0072B2" stroke-width="1.5"/>
+<polyline points="380,40 407,40 434,40 461,40 488,40 515,40 542,40 569,40 596,40.54 623,42.71 650,48.12" fill="none" stroke="#0072B2" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="380" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="407" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="434" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="461" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="488" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="515" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="542" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="569" cy="40" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="596" cy="40.54" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="623" cy="42.71" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<circle cx="650" cy="48.12" r="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<line x1="690" y1="300" x2="960" y2="300" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="690" y1="235" x2="960" y2="235" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="690" y1="170" x2="960" y2="170" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="690" y1="105" x2="960" y2="105" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="690" y1="40" x2="960" y2="40" stroke="#E5E5E5" stroke-width="1"/>
+<line x1="690" y1="300" x2="960" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="690" y1="40" x2="690" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="690" y1="300" x2="690" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="690" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">0</text>
+<line x1="744" y1="300" x2="744" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="744" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">2</text>
+<line x1="798" y1="300" x2="798" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="798" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">4</text>
+<line x1="852" y1="300" x2="852" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="852" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">6</text>
+<line x1="906" y1="300" x2="906" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="906" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">8</text>
+<line x1="960" y1="300" x2="960" y2="305" stroke="black" stroke-width="1.2"/>
+<text x="960" y="319" font-size="12" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">10</text>
+<line x1="685" y1="300" x2="690" y2="300" stroke="black" stroke-width="1.2"/>
+<line x1="685" y1="235" x2="690" y2="235" stroke="black" stroke-width="1.2"/>
+<line x1="685" y1="170" x2="690" y2="170" stroke="black" stroke-width="1.2"/>
+<line x1="685" y1="105" x2="690" y2="105" stroke="black" stroke-width="1.2"/>
+<line x1="685" y1="40" x2="690" y2="40" stroke="black" stroke-width="1.2"/>
+<text x="825" y="340" font-size="13" text-anchor="middle" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">compactions survived g</text>
+<text x="825" y="30" font-size="13" text-anchor="middle" font-weight="bold" fill="black" style="font-family:Helvetica,Arial,sans-serif">Qwen32B</text>
+<polyline points="690,40 717,145.08 744,211.17 771,274.54 798,300 825,300 852,300 879,300 906,300 933,300 960,300" fill="none" stroke="#999999" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6,4"/>
+<polyline points="690,40 717,40 744,40 771,40 798,68.17 825,133.71 852,200.33 879,262.62 906,299.46 933,300 960,300" fill="none" stroke="#999999" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="690,40 717,91.46 744,105 771,118.54 798,124.5 825,133.17 852,151.58 879,161.88 906,165.12 933,174.33 960,180.29 960,234.46 933,230.12 906,220.92 879,218.75 852,206.29 825,188.42 798,178.67 771,170 744,148.88 717,123.96 690,40" fill="#009E73" fill-opacity="0.18" stroke="none"/>
+<polygon points="690,40 717,64.38 744,69.79 771,70.88 798,75.21 825,76.83 852,77.92 879,78.46 906,79 933,84.96 960,86.04 960,132.62 933,131 906,124.5 879,123.96 852,123.42 825,115.29 798,114.75 771,95.79 744,93.62 717,85.5 690,40" fill="#009E73" fill-opacity="0.18" stroke="none"/>
+<polyline points="690,40 717,107.17 744,126.12 771,143.46 798,151.04 825,160.79 852,178.67 879,191.12 906,193.83 933,201.96 960,207.38" fill="none" stroke="#009E73" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="6,4"/>
+<rect x="687" y="37" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="714" y="104.17" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="741" y="123.12" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="768" y="140.46" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="795" y="148.04" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="822" y="157.79" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="849" y="175.67" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="876" y="188.12" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="903" y="190.83" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="930" y="198.96" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<rect x="957" y="204.38" width="6" height="6" fill="white" stroke="#009E73" stroke-width="1.5"/>
+<polyline points="690,40 717,74.12 744,81.17 771,82.79 798,93.08 825,94.17 852,98.5 879,99.04 906,99.58 933,106.08 960,107.71" fill="none" stroke="#009E73" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="690" cy="40" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="717" cy="74.12" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="744" cy="81.17" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="771" cy="82.79" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="798" cy="93.08" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="825" cy="94.17" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="852" cy="98.5" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="879" cy="99.04" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="906" cy="99.58" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="933" cy="106.08" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<circle cx="960" cy="107.71" r="3" fill="#009E73" stroke="#009E73" stroke-width="1.5"/>
+<line x1="70" y1="370" x2="100" y2="370" stroke="black" stroke-width="2.0"/>
+<circle cx="85" cy="370" r="3.5" fill="black" stroke="black" stroke-width="1.5"/>
+<text x="107" y="374.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">plain, B400 (95% band)</text>
+<line x1="290" y1="370" x2="320" y2="370" stroke="black" stroke-width="2.0" stroke-dasharray="6,4"/>
+<rect x="301.5" y="366.5" width="7" height="7" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="327" y="374.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">plain, B150 (95% band)</text>
+<line x1="510" y1="370" x2="540" y2="370" stroke="#999999" stroke-width="2.0"/>
+<text x="547" y="374.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">extract baseline, B400</text>
+<line x1="730" y1="370" x2="760" y2="370" stroke="#999999" stroke-width="2.0" stroke-dasharray="6,4"/>
+<text x="767" y="374.5" font-size="13" text-anchor="start" font-weight="normal" fill="black" style="font-family:Helvetica,Arial,sans-serif">extract baseline, B150</text>
+<text x="70" y="400" font-size="12" text-anchor="start" font-weight="normal" fill="#444444" style="font-family:Helvetica,Arial,sans-serif">Line colour = compactor model (panel); shaded band = chain-bootstrap 95% CI.</text>
+</svg>

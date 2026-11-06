@@ -1,0 +1,86 @@
+{
+ "haiku": {
+  "n_pairs": 30,
+  "manipulation": {
+   "states": 300,
+   "draft_over_budget": 0.2,
+   "rewrite_calls": 64,
+   "fallback_rate": 0.006666666666666667,
+   "informative": true
+  },
+  "d1w_rewrite": 0.05246837353131476,
+  "d1w_rewrite_ci": [
+   0.024929190172466295,
+   0.08233815850137599
+  ],
+  "p_C2": 0.0,
+  "d1w_plain": -0.09405802533043414,
+  "C1_diff": 0.1465263988617489,
+  "C1_ci": [
+   0.052278510244570954,
+   0.2405075423293398
+  ],
+  "p_C1": 0.0,
+  "S10_rewrite_minus_plain": {
+   "n_pairs": 30,
+   "mean_diff": 0.06666666666666667,
+   "ci": [
+    -0.05625,
+    0.18333333333333332
+   ],
+   "p": 0.302
+  },
+  "rewrite_drops": {
+   "draft_new": 1079,
+   "draft_inc": 6306,
+   "drop_new": 29,
+   "drop_inc": 120,
+   "new_share_of_drops": 0.19463087248322147,
+   "new_share_of_draft": 0.14610697359512526
+  },
+  "holm_C1": 0.0,
+  "holm_C2": 0.0
+ },
+ "sonnet": {
+  "n_pairs": 30,
+  "manipulation": {
+   "states": 300,
+   "draft_over_budget": 0.96,
+   "rewrite_calls": 574,
+   "fallback_rate": 0.95,
+   "informative": false
+  },
+  "d1w_rewrite": -0.7006462030482334,
+  "d1w_rewrite_ci": [
+   -0.7905405139533549,
+   -0.6060198334014039
+  ],
+  "p_C2": 0.0,
+  "d1w_plain": -0.6832794962363772,
+  "C1_diff": -0.01736670681185626,
+  "C1_ci": [
+   -0.0863651246341709,
+   0.054717878298970346
+  ],
+  "p_C1": 0.644,
+  "S10_rewrite_minus_plain": {
+   "n_pairs": 30,
+   "mean_diff": 0.11458333333333333,
+   "ci": [
+    0.022916666666666665,
+    0.20833333333333334
+   ],
+   "p": 0.015
+  },
+  "rewrite_drops": {
+   "draft_new": 1080,
+   "draft_inc": 4472,
+   "drop_new": 805,
+   "drop_inc": 198,
+   "new_share_of_drops": 0.80259222333001,
+   "new_share_of_draft": 0.19452449567723343
+  },
+  "holm_C1": 0.644,
+  "holm_C2": 0.0
+ }
+}
