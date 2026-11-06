@@ -7,13 +7,13 @@ Addenda A–C). Everything here is Python 3.13 standard library; nothing to inst
 Paper: arXiv:XXXX.XXXXX. Repository: https://github.com/blaksadho/compaction-e1.
 
 ```bibtex
-@misc{{acharya2026compaction,
-  title  = {{Repeated context compaction loses facts at admission, not by compounding}},
-  author = {{Sandeep Acharya}},
-  year   = {{2026}},
-  eprint = {{XXXX.XXXXX}},
-  archivePrefix = {{arXiv}}
-}}
+@misc{acharya2026compaction,
+  title  = {Repeated context compaction loses facts at admission, not by compounding},
+  author = {Sandeep Acharya},
+  year   = {2026},
+  eprint = {XXXX.XXXXX},
+  archivePrefix = {arXiv}
+}
 ```
 <!-- /named -->
 
